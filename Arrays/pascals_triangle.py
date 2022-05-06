@@ -1,7 +1,8 @@
 """
 06/05/2022 - https://leetcode.com/problems/pascals-triangle/
 
-Accepted Solution at 32ms run-time and 13.9 MB memory usage - ~86% better than most python solutions.
+Runtime: 32ms ms, faster than 85.81% of Python3 online submissions for Majority Element.
+Memory Usage: 15.4 MB, less than 67.90% of Python3 online submissions for Majority Element.
 """
 
 import math
