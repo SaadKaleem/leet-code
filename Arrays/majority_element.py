@@ -13,7 +13,6 @@ Time complexity: O(m)
 Space complexity: O(num of unique elements)
 """
 
-
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         hash_map = {}
