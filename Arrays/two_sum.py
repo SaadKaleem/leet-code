@@ -1,5 +1,5 @@
 """
-11/06/2022 - https://leetcode.com/problems/two-sum/submissions/
+11/06/2022 - https://leetcode.com/problems/two-sum/
 
 Runtime: 71 ms, faster than 79.34% of Python3 online submissions for Two Sum.
 Memory Usage: 15.2 MB, less than 49.04% of Python3 online submissions for Two Sum.
